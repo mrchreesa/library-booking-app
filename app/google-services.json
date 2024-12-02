@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "943603112610",
+    "firebase_url": "https://bookreserve-9c6ab-default-rtdb.firebaseio.com",
+    "project_id": "bookreserve-9c6ab",
+    "storage_bucket": "bookreserve-9c6ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943603112610:android:0b991c1192470f13f215fb",
+        "android_client_info": {
+          "package_name": "com.example.app777777"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2I0NHuHEmvdiDFWddDTn8kpIc1Fz8u04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943603112610:android:1518fc581d48a5a9f215fb",
+        "android_client_info": {
+          "package_name": "com.example.app7bookreserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2I0NHuHEmvdiDFWddDTn8kpIc1Fz8u04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943603112610:android:d2a78abd56869ec7f215fb",
+        "android_client_info": {
+          "package_name": "com.example.app7reserveapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2I0NHuHEmvdiDFWddDTn8kpIc1Fz8u04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
